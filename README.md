@@ -26,11 +26,6 @@ Atualmente, estou aprofundando meus estudos em:
 
 ---
 
-## 💡 Diferencial
-Minha abordagem não se limita apenas ao modelo; eu foco na **entrega do valor**. Entendo que um insight só é útil quando está disponível para o usuário final. Por isso, utilizo **Docker** para garantir que meus modelos rodem em qualquer lugar e **Flask** para que qualquer sistema possa consumi-los.
-
----
-
 ## 📫 Vamos nos conectar?
 - **Email:** a.jaderbrizola@gmail.com
 - **Portfólio de Projetos:** [Previsão de Churn de clientes de cartão de crédito](https://github.com/andersonjader/previsao_de_churn_de_clientes_de_cartao_de_credito)
