@@ -33,7 +33,7 @@ Minha abordagem não se limita apenas ao modelo; eu foco na **entrega do valor**
 
 ## 📫 Vamos nos conectar?
 - **Email:** a.jaderbrizola@gmail.com
-- **Portfólio de Projetos:** [Previsão de Churn de clientes de cartao de credito](https://github.com/andersonjader/previsao_de_churn_de_clientes_de_cartao_de_credito)
+- **Portfólio de Projetos:** [Previsão de Churn de clientes de cartão de crédito](https://github.com/andersonjader/previsao_de_churn_de_clientes_de_cartao_de_credito)
 
 ---
 ### 📊 Estatísticas
