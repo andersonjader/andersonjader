@@ -1,19 +1,42 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Anderson Jader
 
-<!--
-**andersonjader/andersonjader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou graduando em **Ciência de Dados**, focado em construir o ecossistema completo de soluções inteligentes: desde a modelagem de dados até a entrega via APIs escaláveis. Meu objetivo é unir o rigor estatístico da Ciência de Dados com a agilidade do desenvolvimento de software moderno.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Stack Técnica
+
+### **Data Science & Inteligência Artificial**
+* **Análise de Dados:** Python (Pandas, NumPy) para manipulação de grandes volumes de dados e análise exploratória.
+* **Machine Learning:** Desenvolvimento de modelos preditivos e algoritmos de aprendizado supervisionado e não supervisionado.
+* **Visualização:** Power BI para a criação de dashboards estratégicos e narrativas de dados.
+  
+### **Desenvolvimento & Infraestrutura**
+* **Bancos de Dados:** Domínio de **SQL** e **MySQL** para estruturação e consulta de dados.
+* **Containerização:** **Docker** para isolamento de ambientes e padronização de deploys.
+* **Linguagens:** Python (foco em dados e lógica) e JavaScript (integrações web).
+
+
+---
+
+## 🚀 No que estou trabalhando agora
+Atualmente, estou aprofundando meus estudos em:
+1.  **Arquitetura de APIs REST com Flask:** Para transformar modelos de ML em serviços acessíveis.
+2.  **Agentes de IA:** Criando fluxos de trabalho autônomos que utilizam modelos de linguagem para resolver problemas de negócio de ponta a ponta.
+
+---
+
+## 💡 Diferencial
+Minha abordagem não se limita apenas ao modelo; eu foco na **entrega do valor**. Entendo que um insight só é útil quando está disponível para o usuário final. Por isso, utilizo **Docker** para garantir que meus modelos rodem em qualquer lugar e **Flask** para que qualquer sistema possa consumi-los.
+
+---
+
+## 📫 Vamos nos conectar?
+- **LinkedIn:** [Anderson Jader](www.linkedin.com/in/anderson-jader-brizola)
+- **Email:** [a.jaderbrizola@gmail.com]
+- **Portfólio de Projetos:** [https://github.com/andersonjader/previsao_de_churn_de_clientes_de_cartao_de_credito]
+
+---
 ### 📊 Estatísticas
 
 <p>
