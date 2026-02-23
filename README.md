@@ -22,7 +22,7 @@ Sou graduando em **Ciência de Dados**, focado em construir o ecossistema comple
 ## 🚀 No que estou trabalhando agora
 Atualmente, estou aprofundando meus estudos em:
 1.  **Arquitetura de APIs REST com FastAPI:** Para transformar modelos de ML em serviços acessíveis.
-2.  **LangChain LangChain e LangGraph:** Criando fluxos de trabalho autônomos que utilizam modelos de linguagem para resolver problemas de negócio de ponta a ponta.
+2.  **LangChain e LangGraph:** Criando fluxos de trabalho autônomos que utilizam modelos de linguagem para resolver problemas de negócio de ponta a ponta.
 
 ---
 
