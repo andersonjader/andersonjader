@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Anderson Jader
 
-Sou graduando em **Ciência de Dados**, focado em construir o ecossistema completo de soluções inteligentes: desde a modelagem de dados até a entrega via APIs escaláveis. Meu objetivo é unir o rigor estatístico da Ciência de Dados com a agilidade do desenvolvimento de software moderno.
+Sou químico e graduando em **Ciência de Dados**, focado em construir o ecossistema completo de soluções inteligentes: desde a modelagem de dados até a entrega via APIs escaláveis. Meu objetivo é unir o rigor estatístico da Ciência de Dados com a agilidade do desenvolvimento de software moderno.
 
 ---
 
